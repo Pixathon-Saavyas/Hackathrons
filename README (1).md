@@ -7,7 +7,7 @@ JokeBot is a fun and interactive application developed during a hackathon. It ut
 
 ---
 ### Screenshots:
-
+https://github.com/Pixathon-Saavyas/Hackathrons/issues/1#issue-2241270757
 
 ---
 
