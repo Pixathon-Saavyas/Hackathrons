@@ -6,6 +6,10 @@
 JokeBot is a fun and interactive application developed during a hackathon. It utilizes the JokeAPI to generate jokes based on user-defined categories. Whether you need a quick laugh or want to brighten someone's day, JokeBot has got you covered!
 
 ---
+### Screenshots:
+
+
+---
 
 ### Instructions to Run the Project:
 
