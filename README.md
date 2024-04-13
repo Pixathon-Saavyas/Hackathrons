@@ -41,6 +41,19 @@ https://github.com/Pixathon-Saavyas/Hackathrons/issues/1#issue-2241270757
 
 ---
 
+### Instructions to Use JokeBot:
+
+1. Open and login into DeltaV.
+2. Select "Advanced Options".
+3. Choose "Joke Generator".
+4. Write the prompt "Tell me a joke".
+5. Press "Start".
+6. Type the category to generate a joke on.
+7. Confirm your selection.
+8. A joke is generated as output.
+
+---
+
 ### Use-case Example:
 
 Imagine you're in a virtual meeting with your colleagues, and the atmosphere is a bit dull. You decide to lighten the mood by running JokeBot. You select the "Pun" category, and within seconds, a hilarious pun pops up on the screen. Laughter fills the room, and suddenly, everyone is more engaged and cheerful. Thanks to JokeBot, the meeting becomes a memorable and enjoyable experience!
